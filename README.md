@@ -35,3 +35,5 @@ materials used for the workshop
 [Monk type - Additional](https://github.com/chennaionchain/monktype)
 
 [Metro - Fullstack](https://github.com/chennaionchain/metro)
+
+[Solidity Basics - Learning](https://github.com/chennaionchain/solidity-basics)
