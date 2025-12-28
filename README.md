@@ -24,7 +24,7 @@ materials used for the workshop
 
 ## Workshop Github Repos
 
-[Token Mint - Basic]((https://github.com/chennaionchain/tokenmint))
+[Token Mint - Basic](https://github.com/chennaionchain/tokenmint)
 	
 [NFT Mint - Intermediate](https://github.com/chennaionchain/nftmint)
 
