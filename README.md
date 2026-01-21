@@ -8,6 +8,8 @@ materials used for the workshop
 
 [Wallet Basics and Recovery](https://youtu.be/j5nTkIcxxXE)
 
+[Creating a Cryptocurrency token on Arbitrum Sepolia (Ethereum)](https://youtu.be/M2G1diAMWJg)
+
 [Building a fullstack dApp on Arbitrum - Part 1](https://youtu.be/4OogO2siwrI)
 
 [Building a fullstack dApp on Arbitrum - Part 2](https://youtu.be/0mslGFNLZEw)
